@@ -1,7 +1,7 @@
 # Data engineering coding challenge
 
-This is a technichal test for data engineering candidates at D2SI.
+This is a technical test for data engineering candidates at D2SI.
 
 
-1. running execute.py, it will run two workflows, dict_build and index_built.
-2. The output files (word_id dictionary and inverted index output) were generated in the output directory
+1. running spark-submit spark_dict_builder.py.
+2. The answer files (spark_word_id dictionary and spark_inverted index) were generated in the output directory
